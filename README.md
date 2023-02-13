@@ -1,2 +1,4 @@
 # rapidInterns-Evaluation-Feb2023
-This is Repo contains evaluation files for rapidops interns.
+This Evaluation consist to 2 parts.
+* Exploratory Data Analysis - rapidEDA.ipynb
+* ML Model training - rapidRatings.ipynb
