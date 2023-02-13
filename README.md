@@ -1,4 +1,4 @@
-# Rapid Interns Evaluation Feb2023
+# Rapid Interns Evaluation Feb 2023
 This Evaluation consist to 2 parts 🎲
 * Exploratory Data Analysis - rapidEDA.ipynb
 * ML Model training - rapidRatings.ipynb
